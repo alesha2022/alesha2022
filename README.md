@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alesha2022
 - 👀 I’m interested in enhancing my knowledge...
-- 🌱 I’m currently learning MVC, Angular, Powershell, Web API, Azure Development AZ204,Team City, Octopus, .NET Core
+- 🌱 I’m currently learning MVC, Angular, Powershell, Web API, Azure Development AZ204,Team City, Octopus Deploy, .NET Core,Azure DevOps
 - 💞️ I’m looking to collaborate on C# advanced features
 - 📫 How to reach me -> ping me on alesha2022@hotmail.com - Microsoft Teams :)
 
